@@ -1,0 +1,2 @@
+[{"id":"SJIsfz7wQhCwnz83yOlw","apartmentsNumber":"4","lastName":"Murzanska","firstName":"Paulina-Weronika","streetName":"Dluga","postalCode":"31-234","phoneNumber":"537
+777 454","houseNumber":"35","town":"Krakow","dateOfBirth":"08-03-1987"}]
